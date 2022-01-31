@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Chun Li vs Akuma
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: a4f385c763e7acc43a9fec9c2f1a23ca, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5dd7ceaa02661824e9c4027f1a55d601, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5dd7ceaa02661824e9c4027f1a55d601, type: 2}
+    text: You called?
+  - character: {fileID: 11400000, guid: a4f385c763e7acc43a9fec9c2f1a23ca, type: 2}
+    text: The Devil!
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}
